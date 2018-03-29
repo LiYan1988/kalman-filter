@@ -32,7 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="kalman_filter.cpp" />
+		<Unit filename="kalman_filter.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="measurement_package.h" />
+		<Unit filename="tracking.cpp" />
+		<Unit filename="tracking.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
